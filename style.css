@@ -1,0 +1,60 @@
+
+body {
+    background-color: #52BE80;
+}
+
+.randomDie {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    background-color: white;
+    text-align: center;
+    margin: 10px;
+    padding: 4px;
+    font-size: 60px;
+    float: left;
+    border: 2px solid black;
+}
+
+#btnDiv {
+   text-align: center;
+}
+
+.rollDie {
+display: inline;
+}
+
+.diceAmount {
+    display: inline;
+    margin: 10px;
+}
+
+#diceyBus {
+    color: white;
+    text-align: center;
+    margin: 30px;
+    font-size: 60px;
+    text-shadow: 2px 2px 0 black, 2px -2px 0 black, -2px 2px 0 black, -2px -2px 0 black, 2px 0px 0 black, 0px 2px 0 black, -2px 0px 0 black, 0px -2px 0 black, 2px 2px 2px black, 2px 2px 2px black;
+}
+
+.button {
+	background-color:#7892c2;
+	-moz-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius:15px;
+	border:2px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:6px 31px;
+	text-decoration:none;
+    text-shadow:0px 1px 0px #283966;
+    margin: 25px;
+}
+
+#dieContainer {
+   margin-top: 40px;
+   margin-left: 50px;
+}
