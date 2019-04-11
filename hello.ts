@@ -2,8 +2,6 @@ import $ from 'jquery';
 
 let diceArray: Array<Die> = [];  // declare array
 
-
-
 class Die {
     // Field
     die: HTMLDivElement;  //declared variables
