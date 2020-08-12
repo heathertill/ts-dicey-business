@@ -12,7 +12,7 @@
     "dependencies": {
         "@types/jquery": "^3.3.29",
         "jquery": "^3.4.1",
-        "serialize-javascript": "^2.1.2",
+        "serialize-javascript": "^3.1.0",
         "ts-loader": "^5.3.3",
         "typescript": "^3.4.2",
         "webpack": "^4.29.6",
